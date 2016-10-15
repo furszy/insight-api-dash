@@ -46,7 +46,7 @@ var blockIndexes = {
 describe('Blocks', function() {
   describe('/blocks/:blockHash route', function() {
     var insight = {
-      'hash': '0000000000000afa0c3c0afd450c793a1e300ec84cbe9555166e06132f19a8f7',
+      'hash': '29619b34616354bdf6d14f44fd266300e5edcbdd143df28f0d8e5f9d1f1c182c',
       'confirmations': 119,
       'size': 1011,
       'height': 533974,
